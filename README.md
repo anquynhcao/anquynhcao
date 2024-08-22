@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Database and Framework**
 
-- 👨‍💻 All of my projects are available at my Personal Portfolio: [ancaoq.com](https://ancaoq.com)
+- 👨‍💻 All of my projects are available at my Personal Portfolio: [Request view](ancaoquynh@gmail.com)
 
 - 📫 How to reach me:  **ancaoquynh@gmail.com**
-
-- 📄 Know about my experiences: [ancaoq.com](https://ancaoq.com)
 
 - ⚡ Fun fact: **I had another Engineering Degree in Chemistry**
 
