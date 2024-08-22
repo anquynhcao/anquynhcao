@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Database and Framework**
 
-- 👨‍💻 All of my projects are available at my Personal Portfolio: [Request view](ancaoquynh@gmail.com)
+- 👨‍💻 All of my projects are available at my Personal Portfolio which can be requested through email
 
 - 📫 How to reach me:  **ancaoquynh@gmail.com**
 
