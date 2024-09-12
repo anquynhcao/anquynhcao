@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **Computer Science at ELTE University**  
 - 🌱 I’m currently learning **Databases and Frameworks**  
-- 👨‍💻 All of my projects are available in my Personal Portfolio: [Request access to Portfolio here](mailto:ancaoquynh@gmail.com?subject=Portfolio%20Access%20Request&body=Hello,%20I%20would%20like%20to%20request%20access%20to%20your%20portfolio.%20Thank%20you!)  
+- 👨‍💻 All of my projects are available in my **[Personal Portfolio](https://ancaoq.com)**  
 - 📫 Contact me via: **[ancaoquynh@gmail.com](mailto:ancaoquynh@gmail.com)**  
 - ⚡ Fun fact: **I also hold an Engineering Degree in Chemistry**  
 
