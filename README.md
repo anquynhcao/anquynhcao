@@ -9,7 +9,7 @@
 - 🌱 I’m focusing on learning **Databases and Frameworks**  
 - 👨‍💻 All of my projects are available in my **[Personal Portfolio](https://ancaoq.com)**  
 - 📫 Contact me via: **[ancaoquynh@gmail.com](mailto:ancaoquynh@gmail.com)**  
-- ⚡ Fun fact: **I also hold an Engineering Degree in Chemistry**  
+- ⚡ Fun fact: **I also hold a Chemical Engineering Degree 👩🏻‍🔬⚗️🧪🥼**  
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
