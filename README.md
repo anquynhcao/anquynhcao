@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=anquynhcao&label=Profile%20views&color=0e75b6&style=flat" alt="anquynhcao" />
 </p>
 
-- 🔭 I’m currently studying **Computer Science at ELTE University**  
-- 🌱 I’m currently learning **Databases and Frameworks**  
+- 🔭 Currently studying **Computer Science at ELTE University**  
+- 🌱 I’m focusing on learning **Databases and Frameworks**  
 - 👨‍💻 All of my projects are available in my **[Personal Portfolio](https://ancaoq.com)**  
 - 📫 Contact me via: **[ancaoquynh@gmail.com](mailto:ancaoquynh@gmail.com)**  
 - ⚡ Fun fact: **I also hold an Engineering Degree in Chemistry**  
