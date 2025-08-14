@@ -7,7 +7,7 @@
 
 <ul>
   <li>🔭 Currently studying <strong>Computer Science at ELTE University</strong></li>
-  <li>🌱 I’m focusing on learning <strong>Databases and Frameworks</strong></li>
+  <li>🌱 I’m focusing on learning <strong>AI model training!</strong></li>
   <li>👨‍💻 All of my projects are available in my <strong><a href="https://ancaoq.com">Personal Portfolio ✧˖°</a></strong></li>
   <li>📫 Contact me via: <strong><a href="mailto:ancaoquynh@gmail.com">ancaoquynh@gmail.com</a></strong></li>
   <li>⚡ Fun fact: <strong>I also hold a Chemical Engineering Degree 👩🏻‍🔬⚗️🧪🥼</strong></li>
